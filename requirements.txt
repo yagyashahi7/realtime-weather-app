@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-dotenv
+aiohttp
+psycopg2-binary  # For PostgreSQL if used
+fpdf
+markdown  # For Markdown export if needed
+googlemaps  # For Google Maps integration
+google-api-python-client  # For YouTube API integration
