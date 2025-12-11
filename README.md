@@ -12,6 +12,7 @@ Here's how the files are organized:
 
 ```text
 weather_app_backend/
+├── Image # contains screenshots
 ├── main.py # The starting point for the FastAPI app
 ├── db.py # Handles database connections and sessions
 ├── models.py # Defines the database tables using SQLAlchemy
