@@ -141,7 +141,7 @@ DATABASE_URL=sqlite:///./weather.db # Switch to PostgreSQL if needed
 ## Technologies Used
 
 - Python: The backbone.
-- FastAPI: For the API—super efficient.
+- FastAPI: For the API-super efficient.
 - Uvicorn: Runs the server.
 - SQLAlchemy: Manages the database.
 - HTML/CSS/JS: For the frontend.
@@ -154,9 +154,13 @@ DATABASE_URL=sqlite:///./weather.db # Switch to PostgreSQL if needed
 
 ![Weather Forecast via Zipcode](./Image/weather_forcast_via_zipcode.png)
 
-### Weather Forecast - London
+### Weather Forecast via location _ London
 
 ![Weather Forecast London](./Image/weather_forecast_location_londan.png)
+
+### weather_database
+
+![Weather Forecast London](./Image/weather_database.png)
 
 ## Future Improvements
 
